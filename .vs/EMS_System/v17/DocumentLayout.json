@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{615426E0-FA89-4128-B43A-3536B0713DB3}|EMS_System\\EMS_System.csproj|C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\ems_system\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{615426E0-FA89-4128-B43A-3536B0713DB3}|EMS_System\\EMS_System.csproj|solutionrelative:ems_system\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615426E0-FA89-4128-B43A-3536B0713DB3}|EMS_System\\EMS_System.csproj|c:\\users\\bench\\onedrive\\desktop\\ems_system\\ems_system\\ems_system\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615426E0-FA89-4128-B43A-3536B0713DB3}|EMS_System\\EMS_System.csproj|solutionrelative:ems_system\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615426E0-FA89-4128-B43A-3536B0713DB3}|EMS_System\\EMS_System.csproj|C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\ems_system\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{615426E0-FA89-4128-B43A-3536B0713DB3}|EMS_System\\EMS_System.csproj|solutionrelative:ems_system\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615426E0-FA89-4128-B43A-3536B0713DB3}|EMS_System\\EMS_System.csproj|C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\ems_system\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{615426E0-FA89-4128-B43A-3536B0713DB3}|EMS_System\\EMS_System.csproj|solutionrelative:ems_system\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615426E0-FA89-4128-B43A-3536B0713DB3}|EMS_System\\EMS_System.csproj|C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\ems_system\\ems_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615426E0-FA89-4128-B43A-3536B0713DB3}|EMS_System\\EMS_System.csproj|solutionrelative:ems_system\\ems_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615426E0-FA89-4128-B43A-3536B0713DB3}|EMS_System\\EMS_System.csproj|C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\ems_system\\ems_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{615426E0-FA89-4128-B43A-3536B0713DB3}|EMS_System\\EMS_System.csproj|solutionrelative:ems_system\\ems_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615426E0-FA89-4128-B43A-3536B0713DB3}|EMS_System\\EMS_System.csproj|C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\ems_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615426E0-FA89-4128-B43A-3536B0713DB3}|EMS_System\\EMS_System.csproj|solutionrelative:ems_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\EMS_System\\Employee.cs",
+              "RelativeDocumentMoniker": "EMS_System\\Employee.cs",
+              "ToolTip": "C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\EMS_System\\Employee.cs [Design]",
+              "RelativeToolTip": "EMS_System\\Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:09:43.488Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\EMS_System\\Employee.cs",
+              "RelativeDocumentMoniker": "EMS_System\\Employee.cs",
+              "ToolTip": "C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\EMS_System\\Employee.cs",
+              "RelativeToolTip": "EMS_System\\Employee.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:31:36.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\EMS_System\\Department.cs",
+              "RelativeDocumentMoniker": "EMS_System\\Department.cs",
+              "ToolTip": "C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\EMS_System\\Department.cs [Design]",
+              "RelativeToolTip": "EMS_System\\Department.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:10:13.035Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\EMS_System\\Reports.cs",
+              "RelativeDocumentMoniker": "EMS_System\\Reports.cs",
+              "ToolTip": "C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\EMS_System\\Reports.cs [Design]",
+              "RelativeToolTip": "EMS_System\\Reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:46:02.81Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EMS_Form.cs",
+              "DocumentMoniker": "C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\EMS_System\\EMS_Form.cs",
+              "RelativeDocumentMoniker": "EMS_System\\EMS_Form.cs",
+              "ToolTip": "C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\EMS_System\\EMS_Form.cs",
+              "RelativeToolTip": "EMS_System\\EMS_Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T23:11:05.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\EMS_System\\Program.cs",
+              "RelativeDocumentMoniker": "EMS_System\\Program.cs",
+              "ToolTip": "C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\EMS_System\\Program.cs",
+              "RelativeToolTip": "EMS_System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:46:11.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EMS_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\EMS_System\\EMS_Form.cs",
+              "RelativeDocumentMoniker": "EMS_System\\EMS_Form.cs",
+              "ToolTip": "C:\\Users\\bench\\OneDrive\\Desktop\\EMS_System\\EMS_System\\EMS_System\\EMS_Form.cs [Design]",
+              "RelativeToolTip": "EMS_System\\EMS_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:17:35.465Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
