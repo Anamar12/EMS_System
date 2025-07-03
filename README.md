@@ -2,7 +2,7 @@
 Employee Management System (EMS)
 
 ## Brief Description
-This is my Employee Management System, a desktop program created in early 2025. The objective of this app was to enhance the process by which the Human Resources department manages employee data by transitioning from manual processes to a user-friendly and easy to use system.
+This is an Employee Management System, a desktop application created in early 2025. The objective of this project is to enhance the process by which the Human Resources department manages employee data by transitioning from manual processes to a user-friendly and easy to use system.
 
 
 ## Objective of the Project :) 
@@ -12,17 +12,13 @@ This application has been created to:
  - Facilitate quick updates and searches
  - Produce real-time reports based on department data
 
-## Tech used
-
+## Built with
 - **C# (.NET Framework)**
 - **Windows Forms (WinForms)**
-- **SQL Server LocalDB** (`Database1.mdf`)
+- **Microsoft SQL Server (LocalDB)**
 - **Visual Studio**
 
----
-
 ## Key Features
-
 -  Add, view, update, and delete employees
 -  Assign employees to departments
 -   earch for employee by ID
@@ -32,11 +28,9 @@ This application has been created to:
 - **Gender Ratio Report**
 
 ## Database Design
-
 ### `Department` Table
 - `DepartmentID`
 - `DepartmentName`
-
 ### `Employee` Table
 - `EmployeeID`
 - `FirstName`, `LastName`
