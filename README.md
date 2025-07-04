@@ -19,9 +19,10 @@ This application has been created to:
 - **Visual Studio**
 
 ## Key Features
+- Main Menu
 -  Add, view, update, and delete employees
 -  Assign employees to departments
--   earch for employee by ID
+- Search for employee by ID
 -   View employees by department
 -   Generate reports:
 - **Department Salary Report**
@@ -38,8 +39,39 @@ This application has been created to:
 - `DepartmentID`
 - `Salary`, `Gender`
 
-## What I learned?
+## Database Design
 
+### Department Table  
+![Department Table](screenshots/db_dep_table.png)
+
+### Designing Department Table
+![Designing Department Table](screenshots/db_design_empTable.png)
+
+### Inserting Data into Tables
+![Inserting Data into Tables](screenshots/db_insert_tables.png)
+
+## Application Preview
+
+### Main Menu  
+![Main Menu](screenshots/main_menu.png)
+
+### Add Employee  
+![Add Employee](screenshots/add_employee.png)
+
+### Delete Employee  
+![Delete](screenshots/delete_employee.png)
+
+### View Employee Details by ID  
+![View Employee](screenshots/view_employee.png)
+
+### Filter by Department  
+![Department View](screenshots/employees_by_department.png)
+
+### Generate Reports  
+![Reports](screenshots/reports.png)
+
+
+## What I learned?
 This project helped me:
 - Practice SQL and relational database design
 - Build CRUD functionality in C#
