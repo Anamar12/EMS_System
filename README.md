@@ -39,15 +39,13 @@ This application has been created to:
 - `DepartmentID`
 - `Salary`, `Gender`
 
-## Database Design
-
 ### Department Table  
 ![Department Table](screenshots/db_dep_table.png)
 
 ### Designing Department Table
 ![Designing Department Table](screenshots/db_design_empTable.png)
 
-### Inserting Data into Tables
+### Employee Table
 ![Inserting Data into Tables](screenshots/db_insert_tables.png)
 
 ## Application Preview
